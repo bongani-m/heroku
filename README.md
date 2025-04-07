@@ -4,7 +4,7 @@
 
 # Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/bongani-m/heroku)
 
 Deploy your own Offen Fair Web Analytics instance to Heroku.
 
